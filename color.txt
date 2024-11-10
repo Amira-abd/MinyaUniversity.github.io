@@ -1,0 +1,4 @@
+#003940   #00605d   #20886d   #5db172   #a5d770  #f9f871   >>Generic Gradient>>
+#003940   #215268   #506a8e   #8880ac   #c395c0  #faaec8   >>Matching Gradient>>
+#359698
+#ffc718
